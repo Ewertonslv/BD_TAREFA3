@@ -15,7 +15,7 @@ CREATE TABLE funcionario (
 	codigo INT,
 	nome VARCHAR(100),
 	sexto VARCHAR(1),
-	DtNascimento DATE,
+	dtNascimento DATE,
 	salario MONEY,
 	codDepto INT,
 	CONSTRAINT funcionariodepto 
